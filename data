@@ -1,1 +1,13 @@
-
+user_id,age,gender,height_cm,weight_kg,goal,activity_level,training_days_per_week,preferred_workout_duration_min,fitness_level,preferred_exercise
+1,28,F,168,62,lose_weight,moderate,4,45,beginner,cardio
+2,34,M,176,80,build_muscle,high,5,60,intermediate,weight_training
+3,24,F,160,55,improve_endurance,moderate,3,50,beginner,cycling
+4,41,M,182,90,maintain_fitness,low,2,35,intermediate,walking
+5,30,F,165,68,toning,moderate,4,40,beginner,hiit
+6,27,M,174,73,build_muscle,high,5,60,advanced,compound_lifts
+7,35,F,170,71,weight_loss,moderate,3,45,intermediate,boot_camp
+8,45,M,178,84,improve_strength,moderate,4,55,intermediate,bodyweight_training
+9,22,F,158,52,cardio_fitness,high,5,50,beginner,rowing
+10,39,M,180,88,maintain_fitness,low,3,30,beginner,swimming
+11,31,F,167,64,rehab_recovery,low,2,30,beginner,yoga
+12,29,M,175,76,build_muscle,high,4,65,advanced,powerlifting
